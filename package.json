@@ -80,7 +80,7 @@
     "glob": "^8.0.3",
     "gulp-zip": "^5.1.0",
     "humanize-list": "^1.0.1",
-    "inquirer": "^9.0.0",
+    "inquirer": "^9.2.9",
     "io-ts": "2.2.16",
     "jest-serializer-path": "^0.1.15",
     "lazystream": "^1.0.1",
