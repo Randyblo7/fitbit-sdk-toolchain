@@ -104,7 +104,7 @@
     "validator": "^13.7.0",
     "vinyl": "^2.2.1",
     "vinyl-buffer": "^1.0.1",
-    "vinyl-fs": "^3.0.3",
+    "vinyl-fs": "^4.0.0",
     "yargs": "^17.5.1"
   },
   "bin": {
