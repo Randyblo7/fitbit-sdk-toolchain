@@ -58,7 +58,7 @@
     "tslint-sonarts": "^1.9.0"
   },
   "dependencies": {
-    "@babel/core": "^7.18.5",
+    "@babel/core": "^7.23.2",
     "@babel/plugin-syntax-dynamic-import": "^7.8.3",
     "@babel/plugin-transform-block-scoped-functions": "^7.16.7",
     "@babel/plugin-transform-block-scoping": "^7.18.4",
@@ -99,7 +99,7 @@
     "terser": "^5.14.1",
     "tslib": "^2.4.0",
     "typescript": "^4.7.4",
-    "update-notifier": "^5.1.0",
+    "update-notifier": "^7.3.0",
     "uuid": "^8.3.2",
     "validator": "^13.7.0",
     "vinyl": "^2.2.1",
