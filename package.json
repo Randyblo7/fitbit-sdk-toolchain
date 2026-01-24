@@ -84,7 +84,7 @@
     "io-ts": "2.2.16",
     "jest-serializer-path": "^0.1.15",
     "lazystream": "^1.0.1",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "magic-string": "^0.26.2",
     "multipipe": "^4.0.0",
     "multistream": "^4.1.0",
